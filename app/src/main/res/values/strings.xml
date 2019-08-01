@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">check_list</string>
     <string name="btnChecked">checked</string>
-    <string name="edChecked">Результат:</string>
 </resources>
